@@ -1,16 +1,31 @@
-# flutter_weather_api
+# Flutter Weather API 
 
-A new Flutter project.
+API =>
+ [Weather API LINK](https://openweathermap.org/api) 
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+<div style="display: flex; justify-content: center;">
+  <div style="flex: 1; margin-right: 10px;">
+    <img src="app_assets/1.png" alt="Ana Ekran" width="300" />
+    
+  </div>
+</div>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Linkedin](https://www.linkedin.com/in/vural-kayra-cetintas/)
+- [Github](https://github.com/vuralkayracetintas)
+- [Instagram](https://www.instagram.com/vuralkayrac/)
+
+
+
+## Packages
+- [kartal](https://pub.dev/packages/kartal):
+- [flutter_bloc](https://pub.dev/packages/flutter_bloc):
+- [equatable](https://pub.dev/packages/equatable):
+- [http](https://pub.dev/packages/http):
+- [intl](https://pub.dev/packages/intl):
+- [cupertino_icons](https://pub.dev/packages/cupertino_icons): 
+
+
