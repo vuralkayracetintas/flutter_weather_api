@@ -5,7 +5,7 @@ import 'package:http/http.dart' as hhtp;
 
 class WeatherRepository {
   final _url =
-      'https://api.openweathermap.org/data/2.5/weather?q=London&appid=7d4cd8b46fd6f7ff969096ae99462706&units=metric';
+      'https://api.openweathermap.org/data/2.5/weather?q=London&appid=YOUR-API-KEY&units=metric';
   Future<WeatherModel> getWeatherData() async {
     var response = await hhtp.get(Uri.parse(_url));
     if (response.statusCode == 200) {
